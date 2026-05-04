@@ -102,7 +102,7 @@ Representa una aplicación real de la programación orientada a objetos para res
 pip install customtkinter
 ```
 
-
+---
 ## Archivos
 
 - main.py → archivo principal
